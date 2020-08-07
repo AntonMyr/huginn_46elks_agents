@@ -26,7 +26,7 @@ And then execute:
 
 ## Usage
 
-After installing you can check out the [example scenarios repository]().
+After installing you can check out the [example scenarios repository](https://github.com/AntonMyr/huginn_scenarios).
 
 ## Development
 
