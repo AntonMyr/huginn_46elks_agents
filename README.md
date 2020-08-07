@@ -2,11 +2,13 @@
 
 ## What is this?
 
-This is a combined agent which integrate three different services into your Huginn instance:
+This is a combined agent which integrate three different features into your Huginn instance:
 
 -   SMS
 -   MMS
 -   Phone Call
+
+These features use [46elks](https://46elks.com)
 
 ## Installation
 
