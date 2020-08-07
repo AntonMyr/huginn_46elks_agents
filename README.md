@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a combined agent which integrate three different services from 46elks into your Huginn instance:
+This is a combined agent which integrate three different services from [46elks](https://46elks.com) into your Huginn instance:
 
 -   SMS
 -   MMS
